@@ -86,6 +86,7 @@ section{
     animation: floatImage 4s ease-in-out infinite;
 }
 
+
 @keyframes floatImage {
     0%{
         transform: translateY(0);
@@ -477,7 +478,7 @@ span{
    }
 
    .home-img{
-    width: 70vw;
+    width: 10cm;
     margin-top: 4rem;
    }
 
